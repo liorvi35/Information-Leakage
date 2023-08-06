@@ -34,7 +34,7 @@ To get started with the project, follow these steps to set up the virtual enviro
    - One of the machines will serve as an HMI & ScadaBR simulation for a factory, and the second machine will act as an inline MITM proxy.
 3. Configure IP Addresses:
    - After starting both virtual machines, configure them to have valid IP addresses. Refer to the documentation or instructions in the task.pdf to set up the IP addresses properly.
-4. Access HMI Web-Interface and Attacker's Developmentenviroment:
+4. Access HMI Web-Interface and Attacker's Development Enviroment:
    - Open your web browser and enter the following URL: `http://<HMI-IP>:8080/ScadaBR`, authenticate using the provided credentials found in the task.pdf.
    - Open Pycharm on the attaker's VM, the file to "play with" is the `malicious.py`.
 
