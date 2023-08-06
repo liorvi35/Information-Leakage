@@ -25,7 +25,7 @@ To get started with the project, follow these steps to set up the virtual enviro
 
 0. Clone this repository using:
 ```bash
-  $ git clone https://github.com/liorvi35/Dubin-Project.git
+  $ git clone https://github.com/liorvi35/Information-Leakage.git
 ```
 1. Download the Virtual Environments:
    - Inside the task.pdf, you will find two links to download the virtual environments. These environments are required for the project and are valid as of today's date. Use the provided credentials in the task.pdf to access these virtual machines.
