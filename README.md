@@ -7,7 +7,7 @@ This simulation is achieved through a middle-man attack, where we manipulate a M
 Key points:
 1. Simulation of a Critical Factory: The project revolves around the simulation of a critical factory environment using two virtual machines. One virtual machine represents the HMI & Scada system, while the second virtual machine acts as a communication proxy.
 2. Innovative MITM Attack: The proxy server we use also serves as an inline MITM attacker. Our primary objective is to attempt to leak critical information from the factory without raising suspicion from the HMI system.
-3. Focused on Modbus Protocol: Our project focuses on exploring a unique protocol known as Modbus, which operates over TCP/IP. Understanding the intricacies of this protocol is essential for executing the successful leakage simulation.
+3. Focused on Modbus Protocol: Our project focuses on exploring a unique protocol (over OT) known as Modbus, which operates over TCP/IP. Understanding the intricacies of this protocol is essential for executing the successful leakage simulation.
 
 By combining our knowledge of network protocols, security measures, and comprehensive security analysis methods, we aim to gain valuable insights into potential vulnerabilities within critical infrastructures.<br/>
 Through this project, we aspire to contribute to the advancement of secure communication protocols in critical industrial settings.
