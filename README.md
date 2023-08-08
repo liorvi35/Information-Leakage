@@ -49,6 +49,6 @@ To get started with the project, follow these steps to set up the virtual enviro
 
 ## Project Collaboration
 This project was developed in association with Otorio cyber-company.<br/>
-We would like to extend our appreciation to the team at Otorio for entrusting us with this interesting assignment.
+We would like to extend our appreciation to the team at Otorio (and of-course, Dr. Ran Dubin, the lecturer of the course) for entrusting us with this interesting assignment.
 ![Logo](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/phou3jdgmsdmphapdika)
 
